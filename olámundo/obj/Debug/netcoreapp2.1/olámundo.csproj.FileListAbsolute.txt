@@ -1,0 +1,7 @@
+/Users/aluno/Projects/olámundo/olámundo/bin/Debug/netcoreapp2.1/olámundo.dll
+/Users/aluno/Projects/olámundo/olámundo/bin/Debug/netcoreapp2.1/olámundo.pdb
+/Users/aluno/Projects/olámundo/olámundo/obj/Debug/netcoreapp2.1/olámundo.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/olámundo/olámundo/obj/Debug/netcoreapp2.1/olámundo.AssemblyInfoInputs.cache
+/Users/aluno/Projects/olámundo/olámundo/obj/Debug/netcoreapp2.1/olámundo.AssemblyInfo.cs
+/Users/aluno/Projects/olámundo/olámundo/obj/Debug/netcoreapp2.1/olámundo.dll
+/Users/aluno/Projects/olámundo/olámundo/obj/Debug/netcoreapp2.1/olámundo.pdb
